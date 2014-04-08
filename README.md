@@ -3,6 +3,14 @@
 
 System.Drawing名前空間の各種クラスを利用し、有向グラフを描画するサンプルコードです。
 
+# 実行画面
+
+![実行画面](images/hardcopy.jpg)
+
+# 保存結果
+
+![実行画面](images/result.jpg)
+
 # ライセンス
 Copyright (c) 2014 TAKANO Sho.
 

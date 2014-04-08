@@ -113,6 +113,7 @@ Public Class Form1
 				Dim destination = link.Destination
 
 				' 始点と終点を決定する
+				' HACK : 始点ノードと終点ノードの位置関係を考慮し、ノードの枠線が直交座標と交わる点を端子とする
 				Dim start_x As Integer
 				Dim start_y As Integer
 				Dim end_x As Integer
